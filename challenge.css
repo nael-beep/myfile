@@ -1,0 +1,26 @@
+nav ul{
+    text-align: right;
+    list-style-type: none;
+   
+}
+nav ul li{
+
+    display: inline;
+   margin: 10px;
+     
+}
+nav{
+    
+    margin-right:100px;
+}
+nav ul li a{
+    text-decoration: none;
+    background-color: red
+    ;
+    color: bisque;
+}
+
+
+.lol{
+    text-align: center;
+}
